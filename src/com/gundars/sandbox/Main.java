@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Person Person1 = new Person("P•teris", "B•rziÀä", 21, 1);
+		Person Person1 = new Person("Janis", "Liepins", 21, 1);
 		Person Person2 = new Person("Zane", "LiepiÀa", 20, 2);
 		System.out.println("Uzv‚rds pirms k‚z‚m");
 		System.out.println(Person2.getLastName());
